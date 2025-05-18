@@ -44,7 +44,7 @@ function guessLetter(e) {
 			  wrongGuesses >= maxWrongGuesses &&
 					((document.getElementById(
 						"message"
-					).textContent = `Game Over! The word was: ${selectedWord}`),
+					).textContent = `Game Over!`),
 					disableAllLetters())),
 		updateLetterButtons());
 }
