@@ -2,19 +2,15 @@
     text-align: center;
 }
 
-#no_css_img {
-    width: 450px;
-    height: 250px;
-}
-
 hr{
-    border-top: 10px solid black;
+    border-top: 10px solid pink;
+    border-radius: 20px;
 }
 
 body {
   width: 100vw;
   height: 100vh;
-  background: #fafbff;
+  background: #E41B17;
 }
 .floatingButtonWrap {
     display: block;
